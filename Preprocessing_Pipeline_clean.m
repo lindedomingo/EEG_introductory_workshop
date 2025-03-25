@@ -1,7 +1,7 @@
 % PREPROCESSING PIPELINE
 
 % Juan Linde Domingo, March 2024, CIMCYC
-% EEG preprocessing - Course - N-back task
+% EEG preprocessing - Course -- N-back task
 
 %% PART I. Visual inspection and cleaning
 
